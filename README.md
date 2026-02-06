@@ -48,7 +48,7 @@ Bash
 npm run dev
 Step 3: Open in Browser
 After running, open:
-Copy code
+
 
 http://localhost:5173
 💳 Payment UI (Demo Only)
